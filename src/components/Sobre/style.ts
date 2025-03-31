@@ -22,9 +22,9 @@ export const Titulo = styled.h2`
     font-family: "Barlow Condensed", sans-serif;
 `
 export const Profile = styled.img`
-    max-width: 300px;
+    max-width: 350px;
     width: 100%;
-    border-radius: 20px;
+    border-radius: 10px;
     cursor: pointer;
 `
 export const ContainerProfissao = styled.div`
