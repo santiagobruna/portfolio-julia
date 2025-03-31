@@ -23,7 +23,7 @@ const Sobre = () => {
             </div>
             <div>
                 <S.ContainerProfissao>
-                    <img src="./src/assets/line.png" alt="Ícone de Linha" />
+                    <img src="/line.png" alt="Ícone de Linha" />
                     <span>Especialista em Pediatria do Desenvolvimento e Comportamento</span>
                 </S.ContainerProfissao>
                 <S.Decricao>
