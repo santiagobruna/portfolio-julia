@@ -27,7 +27,7 @@ const Sobre = () => {
                     <span>Especialista em Pediatria do Desenvolvimento e Comportamento</span>
                 </S.ContainerProfissao>
                 <S.Decricao>
-                    Formada em Medicina pela Universidade Centro-Sul com honra e mérito, a Dra. Iracema Souza encontrou sua vocação durante a residência. Explorando a Pediatria, encontrou na Pediatria do Desenvolvimento e Comportamento sua paixão em ajudar crianças e adolescentes a se adaptarem socialmente.
+                    Formada em Medicina pela Universidade Centro-Sul com honra e mérito, a Dra. Julia Souza encontrou sua vocação durante a residência. Explorando a Pediatria, encontrou na Pediatria do Desenvolvimento e Comportamento sua paixão em ajudar crianças e adolescentes a se adaptarem socialmente.
                 </S.Decricao>
                 <S.Decricao>
                     Através dos anos, desenvolveu seu próprio método de avaliar cada paciente e entregar um tratamento holístico, humanizado e individualizado para melhora da qualidade de vida e integração na sociedade.

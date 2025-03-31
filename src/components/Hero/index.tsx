@@ -17,7 +17,7 @@ const Hero = () => {
         <S.HeroContainer data-aos="fade-left" data-aos-duration="1500">
             <S.ContainerInfos>
                 <Titulo>Ajudando crianças a se <br /> desenvolverem desde 2008</Titulo>
-                <Texto>Especialista em Pediatria do Desenvolvimento e Comportamento, a Dra. desenvolveu um método exclusivo para ajudar o seu filho a alcançar o potencial máximo em âmbito social e emocional.</Texto>
+                <Texto>Especialista em Pediatria do Desenvolvimento e Comportamento, a Dra. Julia Souza desenvolveu um método exclusivo para ajudar o seu filho a alcançar o potencial máximo em âmbito social e emocional.</Texto>
                 <a href="#recursos">
                     <Button data-aos="fade-left" data-aos-duration="1500">Saiba mais</Button>
                 </a>
