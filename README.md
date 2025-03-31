@@ -1,54 +1,55 @@
-# React + TypeScript + Vite
+# Portfólio Profissional
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto é um portfólio profissional desenvolvido para apresentar minhas habilidades, projetos e experiência na área de desenvolvimento. A aplicação foi construída utilizando React, TypeScript e Vite, proporcionando uma experiência moderna, rápida e responsiva para os visitantes.
 
-Currently, two official plugins are available:
+## 🚀 Tecnologias Utilizadas
+- React - Biblioteca para construção de interfaces.
+- TypeScript - Superconjunto tipado de JavaScript.
+- Vite - Build tool rápida para aplicações web modernas.
+- Styled Components / Tailwind CSS - Utilizado para estilização dinâmica e moderna.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Demonstração
+![portfolio-profissional](https://github.com/user-attachments/assets/5214fe2b-be6c-46b5-b1d0-ea8dd448f331)
+## 📦 Como Rodar o Projeto:
 
-## Expanding the ESLint configuration
+1. Clone o repositório:
+``` 
+git clone https://github.com/santiagobruna/portfolio-julia.git 
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+````
+2. Acesse a pasta do projeto:
+``` 
+cd portfolio
 
-```js
-export default tseslint.config({
-  extends: [
-    // Remove ...tseslint.configs.recommended and replace with this
-    ...tseslint.configs.recommendedTypeChecked,
-    // Alternatively, use this for stricter rules
-    ...tseslint.configs.strictTypeChecked,
-    // Optionally, add this for stylistic rules
-    ...tseslint.configs.stylisticTypeChecked,
-  ],
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+````
+3. Instale as dependências:
+``` 
+npm install
+# ou
+yarn install
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+````
+4. Execute o projeto:
+``` 
+npm run dev
+# ou
+yarn dev
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+````
+🎯 Funcionalidades
 
-export default tseslint.config({
-  plugins: {
-    // Add the react-x and react-dom plugins
-    'react-x': reactX,
-    'react-dom': reactDom,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended typescript rules
-    ...reactX.configs['recommended-typescript'].rules,
-    ...reactDom.configs.recommended.rules,
-  },
-})
-```
+✅ Página inicial apresentando informações sobre a profissional.
+
+✅ Seção de Demonstração de serviços e muito mais.
+
+✅ Design responsivo para dispositivos móveis e desktop.
+
+📌 Melhorias Futuras
+
+🔹 Adição de um blog para compartilhamento de artigos e insights.
+
+🔹 Implementação de animações e interatividade.
+
+🔹 SEO otimizado para melhor indexação nos motores de busca.
+## Acesse o projeto
+Clicando aqui: https://portfolio-julia-two.vercel.app/
