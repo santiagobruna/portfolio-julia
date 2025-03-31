@@ -41,7 +41,7 @@ const Artigos = () => {
                     <div key={index} className="flex flex-col items-start gap-2">
                         <h3 className='font-bold'>{artigo.titulo}</h3>
                         <a href='#' className='text-blue-400 transition-colors'>{artigo.fonte}</a>
-                            <img src="./src/assets/line-horizontal.png" alt="Ícone de linha horizontal" />
+                            <img src="/line-horizontal.png" alt="Ícone de linha horizontal" />
                     </div>
                 ))}
             </div>

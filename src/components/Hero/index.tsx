@@ -23,7 +23,7 @@ const Hero = () => {
                 </a>
             </S.ContainerInfos>
             <div>
-                <S.Image data-aos="zoom-in" data-aos-duration="1000" src="./src/assets/article.png" alt="Imagens dos meus pacientes" />
+                <S.Image data-aos="zoom-in" data-aos-duration="1000" src="/article.png" alt="Imagens dos meus pacientes" />
             </div>
         </S.HeroContainer>
     )

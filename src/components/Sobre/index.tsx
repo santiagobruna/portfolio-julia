@@ -3,7 +3,7 @@ import Aos from "aos"
 import "aos/dist/aos.css";
 import * as S from './style'
 import { Button } from '../../styles/GlobalStyle'
-import pediadraImg from '../../assets/pediatra.png'
+import pediadraImg from '/pediatra.png'
 const Sobre = () => {
 
     useEffect(() => {
