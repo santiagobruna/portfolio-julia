@@ -19,7 +19,7 @@ git clone https://github.com/santiagobruna/portfolio-julia.git
 ````
 2. Acesse a pasta do projeto:
 ``` 
-cd portfolio
+cd portfolio-julia
 
 ````
 3. Instale as dependências:
